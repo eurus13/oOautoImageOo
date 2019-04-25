@@ -1,3 +1,8 @@
 numpy==1.16.*
 matplotlib==3.*
 scipy==1.2.*
+pandas==0.24.*
+skimage==0.*
+sklearn==0.*
+
+h5py==2.9.*
